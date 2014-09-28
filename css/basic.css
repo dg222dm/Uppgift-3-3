@@ -54,5 +54,11 @@
 #maincontent {
     float:left;
     text-align:left;
+    position: relative;
+    top: 100px;
     
+}
+
+#content {
+    background-color: #FFEECE;
 }
