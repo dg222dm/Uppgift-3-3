@@ -55,10 +55,13 @@
     float:left;
     text-align:left;
     position: relative;
-    top: 100px;
+    bottom:35px;
+    color: #504837;
     
 }
 
 #content {
+    position: relative;
+    top:230px;
     background-color: #FFEECE;
 }
