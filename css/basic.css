@@ -39,6 +39,9 @@
     
 }
 
+a[href="#maincontent"]
+{opacity:0;}
+
 #menu ul li a {
     text-decoration: none;
     padding: 0.5em 2em;
@@ -53,11 +56,12 @@
 
 #maincontent {
     float:left;
-    text-align:left;
+    font-size:80%;
     position: relative;
     bottom:10px;
     color: #504837;
-    width: 300px;
+    width: 350px;
+    font-family: verdana;
     
 }
 
@@ -75,10 +79,14 @@ img {
     text-align:left;
     position: relative;
     left:500px;
-    top:-370px;
+    top:-295px;
     color: #504837;
     width: 250px;
     font-family:verdana;
-    font-size:70%;
+    font-size:65%;
     
+}
+
+h1 {
+    font-family: Times;
 }
