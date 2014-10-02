@@ -10,7 +10,7 @@
 }
 
 #menu {
-    background-color: #51473d;
+    background-color:#51473d;
     background-image:url('pics/coffey.jpg');
     background-repeat:no-repeat;
     height:240px;
@@ -20,7 +20,7 @@
 #menu ul li {
     float: left;
     position:relative;
-    top:165px;
+    top:201px;
     margin: 4px 1px;
     
 }
@@ -136,3 +136,5 @@ ul {
     background-color: #eae7d2; 
     color:#797066;
 }
+
+a[href='#maincontent']{ display: none }
